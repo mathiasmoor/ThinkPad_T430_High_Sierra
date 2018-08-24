@@ -1,8 +1,7 @@
 # ThinkPad_T430_High_Sierra
-Guide to run MAC OS X - High Sierra on Lenovo ThinkPad T430 laptop
-
-Vanilla MAC OSX - High Sierra almost perfect on Lenovo T430.
-
+<i>Guide to run MAC OS X - High Sierra on Lenovo ThinkPad T430 laptop
+Vanilla MAC OSX - High Sierra almost perfect on Lenovo T430.</i>
+<br><br>
 <hr><hr>
 
 <h1>Step by Step - GUIDE</h1>
