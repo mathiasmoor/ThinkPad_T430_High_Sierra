@@ -33,4 +33,13 @@ Click on customize and select:  <b>Install for UEFI Booting Only and Install Clo
 After customization click on Install button. 
 <hr>
 
-<b>4. step - Patch your own DSDT -       
+<b>4. step - Patch your own DSDT</b> - This is really necessary step. You must generate own DSDT files, because our T430 models can be different in hardware and Bios settings and versions. 
+
+Unplug your USB stick from laptop and restart your system. 
+When will be displayed CLOVER Boot menu press F4 on your keyboard, Clover will block mouse and keyboard for few seconds (3-15 sec.) and after few seconds again activate mouse and keyboard functions. Now plug-in USB stick with installator and reset laptop. 7
+Then boot macOS from USB stick.
+
+
+
+
+  
