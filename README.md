@@ -22,13 +22,13 @@ or if you have existing MAC OS system, you can create USB with original AppStore
 
 <font color="red"><b><i>!!! You can use new format APFS if you have SSD (APFS was not tested for this T430 guide). !!!</i></b></font>
 
-When is disk erased , close Disk utility window and click on Install macOS. Select disk where will be MAC installed and start            installation.  During installation will be your computer restarted and after next boot will be installed MAC OS to HDD/SSD. After        installation, boot macOS with USB stick. 
+When is disk erased , close Disk utility window and click on Install macOS. Select disk where will be MAC installed and start            installation.  During installation will be your computer restarted and after next boot will be installed MAC OS to HDD/SSD. After        installation, boot macOS from USB stick. 
 
 
 <hr>
 
-<b>3. step - download latest version of Clover EFI bootloader</b> here >>> https://sourceforge.net/projects/cloverefiboot/  <<< and run installation of Clover. Select installation to HDD/SSD with system. 
-Click on customize and select:  <b>Install for UEFI Booting Only and Install Clover in the ESP </b> and in Driver64UEFI select only <b>OsxAptioFix2Drv-64 or OsxAptioFix3Drv-64</b> 
+<b>3. step - CLOVER INSTALLATION</b> - Recommended version of Clover is in Olarila USB stick in FILES folder) or download latest version of Clover EFI bootloader here >>> https://sourceforge.net/projects/cloverefiboot/  <<< and run installation of Clover. Select installation to HDD/SSD with system. 
+Click on customize button  and select:  <b>Install for UEFI Booting Only and Install Clover in the ESP </b> and in Driver64UEFI select only <b>OsxAptioFix2Drv-64 or OsxAptioFix3Drv-64</b> 
 <h4>WARRNING ! ! ! select only one version of OsxAptioFix, no more drivers ! ! !</h4>
 After customization click on Install button. 
 <hr>
@@ -36,8 +36,8 @@ After customization click on Install button.
 <b>4. step - Patch your own DSDT</b> - This is really necessary step. You must generate own DSDT files, because our T430 models can be different in hardware and Bios settings and versions. 
 
 Unplug your USB stick from laptop and restart your system. 
-When will be displayed CLOVER Boot menu press F4 on your keyboard, Clover will block mouse and keyboard for few seconds (3-15 sec.) and after few seconds again activate mouse and keyboard functions. Now plug-in USB stick with installator and reset laptop. 7
-Then boot macOS from USB stick.
+When will be displayed CLOVER Boot menu press <b>F4</b> on your keyboard, Clover will block mouse and keyboard for few seconds (3-15 sec.) and after few seconds again activate mouse and keyboard functions. Now plug-in USB stick with installator and reset laptop.
+Now boot macOS from USB stick again. 
 
 
 
