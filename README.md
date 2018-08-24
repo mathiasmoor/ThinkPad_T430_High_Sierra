@@ -11,9 +11,9 @@ or if you have existing MAC OS system, you can create USB with original AppStore
 
 <b>2. step - Installation MAC OS</b> - Boot installation from created USB stick, and format your SSD / HDD  as MAC OS Extended (Journaled)- [HSF] with scheme GUID Partition Map. 
 
-<b>!!! You can use new format APFS if you have SSD (APFS was not tested for this T430 guide). !!!</b>
+<b><i>!!! You can use new format APFS if you have SSD (APFS was not tested for this T430 guide). !!!</i></b>
 
-<code>When is disk erased , close Disk utility window and click on Install macOS. Select disk where will be MAC installed and start            installation.  During installation will be your computer restarted and after next boot will be installed MAC OS to HDD/SSD. After          installation boot MAC OS with USB stick. </code>
+When is disk erased , close Disk utility window and click on Install macOS. Select disk where will be MAC installed and start            installation.  During installation will be your computer restarted and after next boot will be installed MAC OS to HDD/SSD. After          installation boot MAC OS with USB stick. 
 
 
 
