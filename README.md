@@ -12,7 +12,7 @@ Vanilla MAC OSX - High Sierra almost perfect on Lenovo T430.</i>
 <b>BIOS Settings : Turn SATA AHCI mode ON, UEFI Only Boot ON, Secure Boot OFF, CSM support OFF in UEFI settings. </b><hr>
 
 <b>1. step - Create Bootable USB with High Sierra installator.</b> I think, the best choice for  creating USB installator is Olarila image from this links: https://drive.google.com/file/d/1XIeW2LCRZPSNq3_RiTvefAGIT_2fGfaW/view?usp=sharing
-or if you have existing MAC OS system, you can create USB with original AppStore version of High Sierra with latest version of Clover EFI. 
+or if you have existing MAC OS system, you can create USB with original AppStore version of High Sierra with  Clover Bootloader. 
 
 <b>WARNING ! ! ! - For bootable USB don't use USB 3.x versions.  If you will use USB 3.0 your  installation will be corupted in boot process. Support only for 2.x and  1.x versions of USB. Or you can looking for some guide to run installation from USB 3.0 on your T430.</b>
 
