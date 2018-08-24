@@ -33,4 +33,4 @@ Click on customize and select:  <b>Install for UEFI Booting Only and Install Clo
 After customization click on Install button. 
 <hr>
 
-<b>4. step - Patch yout own DSDT - This           
+<b>4. step - Patch your own DSDT -       
