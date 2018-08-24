@@ -4,6 +4,8 @@
 Vanilla MAC OSX - High Sierra almost perfect on Lenovo T430.</i>
 <br><br>
 
+<code>Sources: ThiagoSchetini and RehabMan.</code>
+
 
 <h1>Step by Step - GUIDE</h1>
 
@@ -21,5 +23,10 @@ When is disk erased , close Disk utility window and click on Install macOS. Sele
 
 <hr>
 
-<b>3. step - download latest version of Clover EFI bootloader</b> here >>> https://sourceforge.net/projects/cloverefiboot/  <<< and run installation of Clover. Select installation to HDD/SSD with system. Click on customize
+<b>3. step - download latest version of Clover EFI bootloader</b> here >>> https://sourceforge.net/projects/cloverefiboot/  <<< and run installation of Clover. Select installation to HDD/SSD with system. 
+Click on customize and select:  <b>Install for UEFI Booting Only and Install Clover in the ESP </b> and in Driver64UEFI select only <b>OsxAptioFix2Drv-64 or OsxAptioFix3Drv-64</b> 
+<h4>WARRNING ! ! ! select only one version of OsxAptioFix, no more drivers ! ! !</h4>
+After customization click on Install button. 
+<hr>
+
           
