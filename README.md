@@ -21,5 +21,5 @@ When is disk erased , close Disk utility window and click on Install macOS. Sele
 
 <hr>
 
-<b>3. step - download latest version of Clover EFI bootloader</b> here >>> https://sourceforge.net/projects/cloverefiboot/  <<< and run installation of Clover. 
+<b>3. step - download latest version of Clover EFI bootloader</b> here >>> https://sourceforge.net/projects/cloverefiboot/  <<< and run installation of Clover. Select installation to HDD/SSD with system. Click on customize
           
