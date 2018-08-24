@@ -3,6 +3,8 @@ Guide to run MAC OS X - High Sierra on Lenovo ThinkPad T430 laptop
 
 Vanilla MAC OSX - High Sierra almost perfect on Lenovo T430.
 
+<hr><hr>
+
 Step by Step - GUIDE
 
 <b>1. step - Create Bootable USB with High Sierra installator.</b> I think, the best choice for  creating USB installator is Olarila image from this links: https://drive.google.com/file/d/1XIeW2LCRZPSNq3_RiTvefAGIT_2fGfaW/view?usp=sharing
