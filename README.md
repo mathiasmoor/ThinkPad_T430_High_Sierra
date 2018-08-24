@@ -39,6 +39,16 @@ Unplug your USB stick from laptop and restart your system.
 When will be displayed CLOVER Boot menu press <b>F4</b> on your keyboard, Clover will block mouse and keyboard for few seconds (3-15 sec.) and after few seconds again activate mouse and keyboard functions. Now plug-in USB stick with installator and reset laptop.
 Now boot macOS from USB stick again. 
 
+Open ZIP archive with name <b>"tools"</b> from my repository and extract it to your Desktop.
+
+Now unplug USB stick with installator and run EFI Mounter, then click on Mount.
+Click to top finder bar on GO >>Computer >> EFI >> Clover >> ACPI >> origin.
+
+In this folder you can see many files which was generated in Clover boot menu, but we need just DSDT.aml file and files with name SSDT   (for example SSDT-1.aml, SSDT-2...). Copy all files  with name DSDT and SSDT, then  create new folder on Desktop and name it like DSDT-1, past copied files to this folder. 
+
+Now we need disassembly this .aml files with app <b>iasl</b> from <b>tools</b> folder in my repository. So copy iasl files to DSDT-1 folder and open Terminal.
+
+
 
 
 
